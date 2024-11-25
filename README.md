@@ -2,7 +2,8 @@
 Hi! guys. This is my first experience on GitHub. I am thrilled to share my project on Supply Chain Management for Fashion and Beauty Products.
 
 Supply Chain Analysis involves examining different aspects of a supply chain to identify areas for improvement and enhance the overall efficiency of the supply chain, ultimately delivering greater value to customers. This project provided an overview of conducting a supply chain analysis of Fashion and Beauty Products using Excel, Python, Power Bi and SQL Server.
-Before we move head we need to check if there are any duplicates or null values for acurate analysis.
+
+Before we move ahead, we need to check if there are any duplicates or null values for accurate analysis.
 
 𝐊𝐞𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬 🖋 :
 - Skincare products demonstrated higher availability, sales, and revenue, while Haircare products showcased a substantial total production volume.
