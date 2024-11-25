@@ -1,4 +1,4 @@
-## Supply Chain Management
+# Supply Chain Management
 Hi! guys. This is my first experience on GitHub. I am thrilled to share my project on Supply Chain Management for Fashion and Beauty Products.
 
 Supply Chain Analysis involves examining different aspects of a supply chain to identify areas for improvement and enhance the overall efficiency of the supply chain, ultimately delivering greater value to customers. This project provided an overview of conducting a supply chain analysis of Fashion and Beauty Products using Excel, Python, Power Bi and SQL Server.
@@ -9,7 +9,7 @@ To check for duplicates you can use the count if funtion in excel.
 
 In SQL you can check for duplicates using count, groupby and having.
 
-# SYNTAX:
+**SYNTAX**:
 select column1, column2(if any), count(\*)  
 from table_name  
 group by column1, column2  
