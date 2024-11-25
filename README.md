@@ -7,9 +7,8 @@ Before we move ahead, we need to check if there are any duplicates or null value
 
 To check for duplicates you can use the count if funtion in excel.
 
-In SQL you can check for duplicates using count, groupby and having.
-
-**SYNTAX**:
+In SQL you can check for duplicates using count, groupby and having.  
+**SYNTAX**:  
 select column1, column2(if any), count(\*)  
 from table_name  
 group by column1, column2  
